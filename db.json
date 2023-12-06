@@ -1,1 +1,22 @@
-[{"first_name":"Leshia","last_name":"Ryde","phone":"907-478-6810","address":"45 Sachs Drive"}]
+{
+  "data": [
+    {
+     "first_name":"Leshia",
+      "last_name":"Ryde",
+      "phone":"907-478-6810",
+      "address":"45 Sachs Drive"
+    },
+    {
+      "first_name":"Lila",
+      "last_name":"Willcocks",
+      "phone":"701-565-7455",
+      "address":"5 Randy Alley"
+    },
+    {
+      "first_name":"Humfried",
+      "last_name":"Vellacott",
+      "phone":"928-173-0957",
+      "address":"9760 Anthes Junction"
+    },
+  ]
+}
